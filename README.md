@@ -249,7 +249,7 @@ Content-Type: application/json
 
 ## 👥 Autores
 
-- **Alexandre Santos** - *Desenvolvimento Full-Stack* - [SeuGitHub](https://github.com/alexsant22)
+- **Alexandre Santos** - *Desenvolvimento Full-Stack* - [AlexSant22](https://github.com/alexsant22)
 
 ---
 
