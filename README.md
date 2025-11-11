@@ -86,7 +86,7 @@ GestaoTarefas_Node/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/GestaoTarefas_Node.git
+git clone https://github.com/alexsant22/GestaoTarefas_Node.git
 cd GestaoTarefas_Node
 ```
 
