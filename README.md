@@ -2,7 +2,6 @@
 
 ![EcoTasks](https://img.shields.io/badge/EcoTasks-Sustainable%20Tasks-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 Um aplicativo web completo para gerenciamento de tarefas relacionadas à sustentabilidade e meio ambiente. Desenvolvido com React 19 no frontend e Node.js + MySQL no backend.
 
